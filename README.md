@@ -1,1 +1,1 @@
-Projeto desenvolvido pelas alunas Mariana Novais Leite de Menezes, Emelly Victoria Pereira da Silva e Vitória Maria da Conceição Rodrigues de Carvalho. Esse projeto consiste em quatro CRUDs de um sistema de academia.
+Projeto de CRUDs de um sistema de academia.
